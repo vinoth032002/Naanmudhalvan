@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgba(190, 190, 185, 0.63);
+}
+.ol{
+    text-align: center;
+ 
+    
+}
+.ol>ul{
+    display:inline-block;
+}
+.details{
+    position: absolute;
+    top: 3px;
+    right: 3px;
+}
